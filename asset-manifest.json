@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/JackConway117/19Junio.git/static/css/main.d135e6cf.css",
+    "main.js": "/JackConway117/19Junio.git/static/js/main.81150e2f.js",
+    "static/js/787.c8ac7851.chunk.js": "/JackConway117/19Junio.git/static/js/787.c8ac7851.chunk.js",
+    "static/media/mountains.jpg": "/JackConway117/19Junio.git/static/media/mountains.c7317ce465b4451e9eb1.jpg",
+    "static/media/airbnb-brands.svg": "/JackConway117/19Junio.git/static/media/airbnb-brands.048182c304f50af8d4fb209a004a4cb4.svg",
+    "index.html": "/JackConway117/19Junio.git/index.html",
+    "main.d135e6cf.css.map": "/JackConway117/19Junio.git/static/css/main.d135e6cf.css.map",
+    "main.81150e2f.js.map": "/JackConway117/19Junio.git/static/js/main.81150e2f.js.map",
+    "787.c8ac7851.chunk.js.map": "/JackConway117/19Junio.git/static/js/787.c8ac7851.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d135e6cf.css",
+    "static/js/main.81150e2f.js"
+  ]
+}
